@@ -1,4 +1,4 @@
-# 👟 PisantesCWB (Sneaker Store)
+# 👟 PisantesCWB (Sneaker Store).
 
 Este é um projeto de marketplace de tênis desenvolvido com React.
 
